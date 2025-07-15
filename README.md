@@ -1,6 +1,6 @@
 **Overview**
 
-This repository acts as a support repository for **ThriftMate: AI Resale Pricer**
+This repository acts as a support webpage for **ThriftMate: AI Resale Pricer**
 
 **Support Process**
 

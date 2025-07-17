@@ -39,4 +39,4 @@ We appreciate your feedback! Please open a support request [here](https://github
 ---
 
 ### 🛟 How do I get help with something else?
-If your question isn’t answered here, feel free to open a new [support request](https://github.com/jmf5pu/ThriftMate/issues/new?template=thriftmate-support-request.md) on GitHub or [shoot us an email](ThriftMateAI-Support@proton.me)
+If your question isn’t answered here, feel free to open a new [support request](https://github.com/jmf5pu/ThriftMate/issues/new?template=thriftmate-support-request.md) on GitHub or shoot us an email at `ThriftMateAI-Support@proton.me`

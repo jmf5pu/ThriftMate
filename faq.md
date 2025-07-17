@@ -34,9 +34,9 @@ We use a growing dataset of secondhand market listings and sales data to provide
 ---
 
 ### 🐞 I found a bug — what should I do?
-We appreciate your feedback! Please open a support request [here]([https://github.com/your-username/your-repo/issues/new?template=support.yaml](https://github.com/jmf5pu/ThriftMate-Support/issues/new?template=thriftmate-support-request.md)) and provide as much detail as possible.
+We appreciate your feedback! Please open a support request [here](https://github.com/jmf5pu/ThriftMate/issues/new?template=thriftmate-support-request.md) and provide as much detail as possible.
 
 ---
 
 ### 🛟 How do I get help with something else?
-If your question isn’t answered here, feel free to open a new [support request]([https://github.com/your-username/your-repo/issues/new?template=support.yaml](https://github.com/jmf5pu/ThriftMate-Support/issues/new?template=thriftmate-support-request.md)) on GitHub or shoot us an email at ThriftMateAI-Support@proton.me.
+If your question isn’t answered here, feel free to open a new [support request](https://github.com/jmf5pu/ThriftMate/issues/new?template=thriftmate-support-request.md) on GitHub or shoot us an email at ThriftMateAI-Support@proton.me.
